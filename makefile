@@ -1,2 +1,2 @@
-main: app.cpp
-	g++ app.cpp -o app
+main: src/app.cpp
+	g++ src/app.cpp -o bin/app
